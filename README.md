@@ -21,3 +21,8 @@ Model Evaluation Metric:
 You should validate model using Root Mean Square Percentage Error (RMSPE) between the
 predicted credit card consumption and Actual Credit Consumption.
 
+pl download the files:
+1. Code file for credit card consumption in .ipynb format
+2. Data files in data folder
+3. Resultant predicted output in prediction file 
+4. Output of tree based models in .png format
